@@ -31,14 +31,17 @@ All notable changes to `homebridge` will be documented in this file. This projec
 - fix(matter): read the Matter shutdown handler via a getter
 - test: add spec-inclusive typecheck script and fix existing spec errors
 - chore: add test-file lint rules and fix existing violations
+- chore: dependency updates
 
 ### Homebridge Dependencies
 
-- `@homebridge/hap-nodejs` @ `v2.1.6`
+- `@homebridge/hap-nodejs` @ `v2.1.7`
 
 ### Matter Dependencies
 
-- `@matter/main` @ `v0.17.0-alpha.0-20260508-96d5c3a88`
+- `@matter/main` @ `v0.17.0`
+
+## v2.0.2 (2026-05-09)
 
 ### Changes
 
